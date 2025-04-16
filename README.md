@@ -1,92 +1,88 @@
-# Developer-Toolbox
-
-Personal curated list of development tools, frameworks, libraries, and learning resources for web development, game dev, scripting, and productivity.
-
 # 🧰 Developer Toolbox
 
-Un repositorio personal de herramientas, plataformas, cursos y recursos que uso y recomiendo para el desarrollo de software, diseño web, juegos y automatización.
+A personal repository of tools, platforms, courses, and resources I use for software development, web design, game creation, and automation.
 
 ---
 
-## 🧠 Cursos & Formación
+## 📓 Courses & Learning
 
-| Nombre                | Descripción                                    | Enlace                                |
-| --------------------- | ---------------------------------------------- | ------------------------------------- |
-| The Odin Project      | Full stack moderno (HTML, CSS, JS, Node)       | [🔗](https://theodinproject.com)      |
-| Retos de Programación | Práctica con problemas variados                | [🔗](https://retosdeprogramacion.com) |
-| Full Stack Open       | React, Node.js, TypeScript, CI/CD              | [🔗](https://fullstackopen.com)       |
-| MOOC.fi               | Fundamentos de Python y programación funcional | [🔗](https://mooc.fi)                 |
-| C# Course             | Curso interactivo en GitHub Pages              | [🔗](https://github.io)               |
-| Google IT Automation  | Automatización con Python                      | [🔗](https://coursera.org)            |
-| Learn C++             | Aprende C++ desde lo básico                    | [🔗](https://learncpp.com)            |
-| freeCodeCamp          | HTML, CSS, JS, DSA, APIs, y más                | [🔗](https://freecodecamp.org)        |
+| Name                   | Description                                  | Link                                                                      |
+| ---------------------- | -------------------------------------------- | ------------------------------------------------------------------------- |
+| The Odin Project       | Full stack curriculum                        | [🔗](https://theodinproject.com)                                          |
+| Full Stack Open        | React, Node.js, TypeScript, CI/CD            | [🔗](https://fullstackopen.com/en/)                                       |
+| MOOC.fi                | Python basics and functional programming     | [🔗](https://mooc.fi/en/courses/)                                         |
+| C# Course              | C# basics and functional programming         | [🔗](https://centria.github.io/basic-csharp/)                             |
+| Learn C++              | Learn C++ from scratch                       | [🔗](https://learncpp.com)                                                |
+| Programming Challenges | Practice with diverse programming challenges | [🔗](https://retosdeprogramacion.com)                                     |
+| Google IT Automation   | Automation with Python                       | [🔗](https://coursera.org/professional-certificates/google-it-automation) |
+| freeCodeCamp           | HTML, CSS, JS, APIs, DSA, and more           | [🔗](https://freecodecamp.org)                                            |
 
 ---
 
 ## 🎨 Frameworks
 
-| Nombre       | Descripción                        | Enlace                         |
+| Name         | Description                        | Link                           |
 | ------------ | ---------------------------------- | ------------------------------ |
-| Tailwind CSS | Framework CSS utility-first        | [🔗](https://tailwindcss.com)  |
-| Bootstrap    | Framework CSS clásico y responsive | [🔗](https://getbootstrap.com) |
-| Phaser       | Motor para juegos 2D en JS         | [🔗](https://phaser.io)        |
-| Vue.js       | Framework progresivo para la web   | [🔗](https://vuejs.org)        |
-| React        | UI basada en componentes           | [🔗](https://reactjs.org)      |
-| Svelte       | Framework JS moderno y minimalista | [🔗](https://svelte.dev)       |
+| Tailwind CSS | Utility-first CSS framework        | [🔗](https://tailwindcss.com)  |
+| Bootstrap    | Classic responsive CSS framework   | [🔗](https://getbootstrap.com) |
+| Phaser       | 2D game framework for the web (JS) | [🔗](https://phaser.io)        |
+| Vue.js       | Progressive JavaScript framework   | [🔗](https://vuejs.org)        |
+| React        | Component-based UI framework       | [🔗](https://reactjs.org)      |
+| Svelte       | Lightweight modern JS framework    | [🔗](https://svelte.dev)       |
 
 ---
 
-## 📚 Librerías útiles
+## 📚 Libraries
 
-| Nombre            | Descripción                     | Enlace                           |
-| ----------------- | ------------------------------- | -------------------------------- |
-| simpleParallax.js | Efecto de parallax en imágenes  | [🔗](https://simpleparallax.com) |
-| Anime.js          | Animaciones fluidas con JS      | [🔗](https://animejs.com)        |
-| Three.js          | Gráficos 3D en la web           | [🔗](https://threejs.org)        |
-| Chart.js          | Gráficas rápidas y responsive   | [🔗](https://www.chartjs.org)    |
-| Axios             | Cliente HTTP basado en promesas | [🔗](https://axios-http.com)     |
-
----
-
-## 🛠 Plataformas
-
-| Nombre       | Descripción                      | Enlace                         |
-| ------------ | -------------------------------- | ------------------------------ |
-| CodePen      | Prototipos rápidos frontend      | [🔗](https://codepen.io)       |
-| Replit       | IDE en la nube, colaborativo     | [🔗](https://replit.com)       |
-| CodeSandbox  | Editor basado en navegador       | [🔗](https://codesandbox.io)   |
-| Editor EDC   | Editor de grafos (Visualización) | [🔗](https://edotor.net)       |
-| Jupyter      | Notebook interactivo para Python | [🔗](https://jupyter.org)      |
-| W3 Validator | Validador de HTML y CSS          | [🔗](https://validator.w3.org) |
+| Name              | Description                                    | Link                             |
+| ----------------- | ---------------------------------------------- | -------------------------------- |
+| simpleParallax.js | Image parallax effect library                  | [🔗](https://simpleparallax.com) |
+| Anime.js          | Smooth and versatile animations with JS        | [🔗](https://animejs.com)        |
+| Three.js          | Web-based 3D graphics library                  | [🔗](https://threejs.org)        |
+| Chart.js          | Responsive data visualization charts           | [🔗](https://chartjs.org)        |
+| Mermaid.js        | JavaScript based diagramming and charting tool | [🔗](https://mermaid.js.org)     |
+| Axios             | Promise-based HTTP client for JS               | [🔗](https://axios-http.com)     |
 
 ---
 
-## 📖 Documentación
+## 🛠 Platforms
 
-| Fuente           | Descripción                         | Enlace                                                            |
-| ---------------- | ----------------------------------- | ----------------------------------------------------------------- |
-| W3Schools        | Referencia rápida HTML/CSS/JS       | [🔗](https://w3schools.com)                                       |
-| MDN Web Docs     | Documentación web oficial (recom.)  | [🔗](https://developer.mozilla.org)                               |
-| Godot Docs       | Documentación del motor Godot       | [🔗](https://docs.godotengine.org)                                |
-| Construct 3 Docs | Manual de desarrollo de videojuegos | [🔗](https://www.construct.net/en/make-games/manuals/construct-3) |
+| Name         | Description                            | Link                            |
+| ------------ | -------------------------------------- | ------------------------------- |
+| CodePen      | Web IDE for rapid frontend prototyping | [🔗](https://codepen.io)        |
+| Replit       | Collaborative cloud IDE                | [🔗](https://replit.com)        |
+| CodeSandbox  | Web-based development environment      | [🔗](https://codesandbox.io)    |
+| StackEdit    | Markdown editor                        | [🔗](https://stackedit.io/app#) |
+| Editor EDC   | Visual graph editor                    | [🔗](https://edotor.net)        |
+| Jupyter      | Interactive Python notebooks           | [🔗](https://jupyter.org)       |
+| W3 Validator | HTML and CSS validation tool           | [🔗](https://validator.w3.org)  |
 
 ---
 
-## 🗃 GitHub Repos recomendados
+## 📖 Documentation
+
+| Source           | Description                          | Link                                                              |
+| ---------------- | ------------------------------------ | ----------------------------------------------------------------- |
+| W3Schools        | Quick references for HTML/CSS/JS     | [🔗](https://w3schools.com)                                       |
+| MDN Web Docs     | Official web standards documentation | [🔗](https://developer.mozilla.org)                               |
+| Godot Docs       | Official documentation for Godot     | [🔗](https://docs.godotengine.org)                                |
+| Construct 3 Docs | Game dev manual for Construct        | [🔗](https://www.construct.net/en/make-games/manuals/construct-3) |
+
+---
+
+## ☕ Extra Tools
+
+| Tool             | Purpose                      | Link                                                 |
+| ---------------- | ---------------------------- | ---------------------------------------------------- |
+| Notion           | Personal organization & docs | [🔗](https://notion.so)                              |
+| Raindrop.io      | Visual bookmarking with tags | [🔗](https://raindrop.io)                            |
+| GitHub Pages     | Free hosting for portfolios  | [🔗](https://pages.github.com)                       |
+| Netlify / Vercel | Easy project deployment      | [🔗](https://vercel.com) / [🔗](https://netlify.com) |
+
+---
+
+## 🗃 Recommended GitHub Repos
 
 - [`awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [`developer-roadmap`](https://github.com/kamranahmedse/developer-roadmap)
 - [`public-apis`](https://github.com/public-apis/public-apis)
-
----
-
-## ☕ Extras útiles
-
-| Herramienta      | Uso recomendado                | Enlace                                               |
-| ---------------- | ------------------------------ | ---------------------------------------------------- |
-| Notion           | Organización personal          | [🔗](https://notion.so)                              |
-| Raindrop.io      | Bookmarking visual + tags      | [🔗](https://raindrop.io)                            |
-| GitHub Pages     | Hosting gratuito de portafolio | [🔗](https://pages.github.com)                       |
-| Netlify / Vercel | Hosting rápido para proyectos  | [🔗](https://vercel.com) / [🔗](https://netlify.com) |
-
----
