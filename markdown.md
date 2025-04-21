@@ -8,6 +8,13 @@
 
 ###### This is a Heading h6
 
+## Line breaks
+
+Inserting a single line break without starting a new paragraph
+
+First line (followed by two trailing spaces)  
+Second line (with a single break)
+
 ## Emphasis
 
 _This text will be italic_  
