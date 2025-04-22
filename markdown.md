@@ -72,6 +72,39 @@ let message = 'Hello world';
 alert(message);
 ```
 
+## File Structures
+
+```bash
+project_root/
+├── 📂 docs/                  # Documentation files
+│   ├── 📄 api.md            # API documentation
+│   └── 📄 setup_guide.md    # Setup instructions
+│
+├── 📂 src/                  # Source code
+│   ├── 📂 core/             # Core modules
+│   │   ├── 📄 utils.py
+│   │   └── 📄 config.py
+│   │
+│   └── 📄 main.py           # Entry point
+│
+├── 📂 tests/                # Test files
+│   ├── 📄 test_utils.py
+│   └── 📄 test_config.py
+│
+├── 📂 data/                 # Data files (CSV, JSON, etc.)
+│   ├── 📄 input.csv
+│   └── 📄 output/
+│
+├── 📂 static/               # Static assets (images, CSS)
+│   ├── 📂 css/
+│   └── 📂 img/
+│
+├── 📄 .gitignore            # Git ignore rules
+├── 📄 requirements.txt      # Python dependencies
+├── 📄 README.md             # Project overview
+└── 📄 LICENSE               # License file
+```
+
 ## SmartyPants
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
