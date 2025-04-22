@@ -6,16 +6,17 @@ A personal repository of tools, platforms, courses, tutorials and resources for 
 
 ## 🛠 Platforms
 
-| Name           | Description                            | Link                               |
-| -------------- | -------------------------------------- | ---------------------------------- |
-| CodePen        | Web IDE for rapid frontend prototyping | [URL🔗](https://codepen.io)        |
-| Replit         | Collaborative cloud IDE                | [URL🔗](https://replit.com)        |
-| CodeSandbox    | Web-based development environment      | [URL🔗](https://codesandbox.io)    |
-| SQL Playground | MySQL and Postgres web editor          | [URL🔗](https://sqlplayground.app) |
-| StackEdit      | Markdown editor                        | [URL🔗](https://stackedit.io/app#) |
-| Editor EDC     | Visual graph editor                    | [URL🔗](https://edotor.net)        |
-| Jupyter        | Interactive Python notebooks           | [URL🔗](https://jupyter.org)       |
-| W3 Validator   | HTML and CSS validation tool           | [URL🔗](https://validator.w3.org)  |
+| Name            | Description                            | Link                               |
+| --------------- | -------------------------------------- | ---------------------------------- |
+| CodePen         | Web IDE for rapid frontend prototyping | [URL🔗](https://codepen.io)        |
+| Replit          | Collaborative cloud IDE                | [URL🔗](https://replit.com)        |
+| CodeSandbox     | Web-based development environment      | [URL🔗](https://codesandbox.io)    |
+| Transform Tools | Online code conversion playground      | [URL🔗](https://transform.tools)   |
+| SQL Playground  | MySQL and Postgres web editor          | [URL🔗](https://sqlplayground.app) |
+| StackEdit       | Markdown editor                        | [URL🔗](https://stackedit.io/app#) |
+| Editor EDC      | Visual graph editor                    | [URL🔗](https://edotor.net)        |
+| Jupyter         | Interactive Python notebooks           | [URL🔗](https://jupyter.org)       |
+| W3 Validator    | HTML and CSS validation tool           | [URL🔗](https://validator.w3.org)  |
 
 ---
 
@@ -24,7 +25,6 @@ A personal repository of tools, platforms, courses, tutorials and resources for 
 | Tool             | Purpose                      | Link                                                       |
 | ---------------- | ---------------------------- | ---------------------------------------------------------- |
 | Notion           | Personal organization & docs | [URL🔗](https://notion.so)                                 |
-| Raindrop.io      | Visual bookmarking with tags | [URL🔗](https://raindrop.io)                               |
 | GitHub Pages     | Free hosting for portfolios  | [URL🔗](https://pages.github.com)                          |
 | Netlify / Vercel | Easy project deployment      | [URL🔗](https://vercel.com) / [URL🔗](https://netlify.com) |
 
@@ -46,14 +46,15 @@ A personal repository of tools, platforms, courses, tutorials and resources for 
 
 ## 📚 Libraries
 
-| Name              | Description                                    | Link                                |
-| ----------------- | ---------------------------------------------- | ----------------------------------- |
-| simpleParallax.js | Image parallax effect library                  | [URL🔗](https://simpleparallax.com) |
-| Anime.js          | Smooth and versatile animations with JS        | [URL🔗](https://animejs.com)        |
-| Three.js          | Web-based 3D graphics library                  | [URL🔗](https://threejs.org)        |
-| Chart.js          | Responsive data visualization charts           | [URL🔗](https://chartjs.org)        |
-| Mermaid.js        | JavaScript based diagramming and charting tool | [URL🔗](https://mermaid.js.org)     |
-| Axios             | Promise-based HTTP client for JS               | [URL🔗](https://axios-http.com)     |
+| Name              | Description                                      | Link                                |
+| ----------------- | ------------------------------------------------ | ----------------------------------- |
+| Gridstack.js      | Draggable, resizable, responsive layouts library | [URL🔗](https://gridstackjs.com)    |
+| simpleParallax.js | Image parallax effect library                    | [URL🔗](https://simpleparallax.com) |
+| Anime.js          | Smooth and versatile animations with JS          | [URL🔗](https://animejs.com)        |
+| Three.js          | Web-based 3D graphics library                    | [URL🔗](https://threejs.org)        |
+| Chart.js          | Responsive data visualization charts             | [URL🔗](https://chartjs.org)        |
+| Mermaid.js        | JavaScript based diagramming and charting tool   | [URL🔗](https://mermaid.js.org)     |
+| Axios             | Promise-based HTTP client for JS                 | [URL🔗](https://axios-http.com)     |
 
 ---
 
